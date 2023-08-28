@@ -21,13 +21,16 @@ get_header();
 					<h4>
 						Eladio S. Oronel
 					</h4>
+					<h4>
+						Francisco Pedrotti
+					</h4>
 				</div>
 				<div class="info">
 					Asesores legales desde 1989
 				</div>
 			</div>
 		</div>
-<!-- 		<div class="row">
+		<!-- 		<div class="row">
 			<div class="col-12 col-md-5 border-white col-inferior col-inferior-1">
 				Sargento Cabral 143, Rafaela
 			</div>
@@ -43,7 +46,7 @@ get_header();
 	</div>
 </section>
 
-<section id='frase-destacada' class='seccion-contenido'> 
+<section id='frase-destacada' class='seccion-contenido'>
 	<h4 class="texto-destacado text-center">
 		Derecho a tus derechos
 	</h4>
@@ -80,7 +83,7 @@ get_header();
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-12 col-md-4">
+			<div class="col-12 col-md-3">
 				<img class="img-profesional" src="https://pedrottiabogados.com/wp-content/uploads/2021/11/daniel-f-pedrotti.png" alt="Daniel F. Pedrotti">
 				<h4 class="nombre-profesional">
 					Daniel F. Pedrotti
@@ -92,23 +95,23 @@ get_header();
 					Especializado en derecho del trabajo y a la salud, contratos civiles y comerciales, la reparación de daños y fraudes, derechos de consumidores y usuarios, la estructuración jurídica de negocios inmobiliarios.
 				</p>
 				<div class="collapse" id='daniel-pedrotti-trayectoria' aria-expanded='false'>
-					<ul class="card-text trayectoria-profesional ps-0 ms-4">						
-						<li>Abogado: Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral – Egresado 1984;</li>
-						<li>Profesor Ayudante de Cátedra Derecho Civil II (Derechos de las Obligaciones), Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral (1992 – 1997)</li>
-						<li>Profesor Adjunto Derecho Civil II (Derechos de las Obligaciones), Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral  (1997 – 2005)</li>
-						<li>Asesor Legal Secretaría de Estado de Trabajo y Seguridad Social (1987 - 1996); </li>
-						<li>"Estudio Jurídico Asociado" de los Dres. Celso Trivelli y Ricardo L. Lorenzetti (1986-1989); </li>
+					<ul class="card-text trayectoria-profesional ps-0 ms-4">
+						<li>Abogado en “Pedrotti Abogados” (1998 a la fecha)</li>
 						<li class="text-decoration-underline"><strong>"Estudio Jurídico Lorenzetti – Pedrotti" (1989 – 1998)</strong></li>
-						<li>“PEDROTTI Abogados” (1998 – 2021)</li>
-						<li>Programa de Dirección de Pequeñas y Medianas Empresas – DPME 2008  -  IAE Business School </li>
+						<li>"Estudio Jurídico Asociado" de los Dres. Celso Trivelli y Ricardo L. Lorenzetti (1986-1989); </li>
+						<li>Asesor Legal Secretaría de Estado de Trabajo y Seguridad Social (1987 - 1996); </li>
+						<li>Profesor Adjunto Derecho Civil II (Derechos de las Obligaciones), Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral (1997 – 2005)</li>
+						<li>Profesor Ayudante de Cátedra Derecho Civil II (Derechos de las Obligaciones), Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral (1992 – 1997)</li>
+						<li>Abogado: Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral – Egresado 1984;</li>
+						<li>Programa de Dirección de Pequeñas y Medianas Empresas – DPME 2008 - IAE Business School </li>
 						<li>Mat. Fº 283 – Tomo III – Exp. 4085 . CSJN Tomo 92 – Folio 217.</li>
 					</ul>
 				</div>
 
-				<button class="btn btn-primary mt-2 mb-5 px-0 trayectoria-button" type="button" role="button" class="collapsed" data-bs-toggle="collapse" href="#daniel-pedrotti-trayectoria" aria-expanded="false" aria-controls="daniel-pedrotti-trayectoria">Trayectoria profesional></button>
+				<button class="btn btn-primary mt-2 mb-5 px-0 trayectoria-button" type="button" role="button" class="collapsed" data-bs-toggle="collapse" href="#daniel-pedrotti-trayectoria" aria-expanded="false" aria-controls="daniel-pedrotti-trayectoria">Trayectoria profesional > </button>
 
 			</div>
-			<div class="col-12 col-md-4">
+			<div class="col-12 col-md-3">
 				<img class="img-profesional" src="https://pedrottiabogados.com/wp-content/uploads/2021/11/carla-bassani.png" alt="Carla Bassani">
 				<h4 class="nombre-profesional">
 					Carla Bassani
@@ -121,25 +124,25 @@ get_header();
 				</p>
 				<div class="collapse" id='carla-bassani-trayectoria' aria-expanded='false'>
 					<ul class="card-text trayectoria-profesional ps-0 ms-4">
-						<li>Abogado en “ESTUDIO JURÍDICO PEDROTTI” - 1.999 a la fecha.</li>
-						<li>Trade Development Institute – TDI - www.tdigroup.ie;   Programa de reconversión industrial para la Argentina,  Rosario, Santa Fe. Área: Gerenciamiento del plan PYMEXPORTA de asistencia a Pymes en su proceso exportador.
+						<li>Abogado en “Pedrotti Abogados” - 1999 a la fecha.</li>
+						<li>Trade Development Institute – TDI - www.tdigroup.ie; Programa de reconversión industrial para la Argentina, Rosario, Santa Fe. Área: Gerenciamiento del plan PYMEXPORTA de asistencia a Pymes en su proceso exportador.
 							Tarea desempeñada: Asistente de Ejecutivo de Cuentas
-							Años  1997 - 1998
+							Años 1997 - 1998
 						</li>
 						<li>“Estudio Jurídico Dogliani”, Rosario, Santa Fe, año 1998. Especialización: derecho empresario</li>
 						<li>Pasantía en asesoramiento legal de sociedades (régimen de constitución, transformación, fusión y extinción).</li>
-						<li>“Estudio Contable  Cristini”,  Rosario, Santa Fe. Área: Dpto. de Sociedades – año 1997;</li>
-						<li>Master en Asesoramiento Jurídico de Empresas; Facultad de Ciencias Empresariales, Universidad Austral Rosario  - Egresada año  2001;  Tesis evaluada con “Sobresaliente”;</li>
-						<li>Egresada año  1997  Matrícula profesional: Libro XXVI F° 306</li>
+						<li>“Estudio Contable Cristini”, Rosario, Santa Fe. Área: Dpto. de Sociedades – año 1997;</li>
+						<li>Master en Asesoramiento Jurídico de Empresas; Facultad de Ciencias Empresariales, Universidad Austral Rosario - Egresada año 2001; Tesis evaluada con “Sobresaliente”;</li>
+						<li>Egresada año 1997 Matrícula profesional: Libro XXVI F° 306</li>
 						<li>Abogada - Facultad de Derecho, Universidad Nacional de Rosario </li>
-						<li>Idiomas:  dominio oral y escrito del inglés y alemán.</li>
+						<li>Idiomas: dominio oral y escrito del inglés y alemán.</li>
 					</ul>
 				</div>
 
-				<button class="btn btn-primary mt-2 mb-5 px-0 trayectoria-button" type="button" role="button" class="collapsed" data-bs-toggle="collapse" href="#carla-bassani-trayectoria" aria-expanded="false" aria-controls="carla-bassani-trayectoria">Trayectoria profesional></button>
+				<button class="btn btn-primary mt-2 mb-5 px-0 trayectoria-button" type="button" role="button" class="collapsed" data-bs-toggle="collapse" href="#carla-bassani-trayectoria" aria-expanded="false" aria-controls="carla-bassani-trayectoria">Trayectoria profesional > </button>
 			</div>
 
-			<div class="col-12 col-md-4">
+			<div class="col-12 col-md-3">
 				<img class="img-profesional" src="https://pedrottiabogados.com/wp-content/uploads/2021/11/eladio-s-oronel.png" alt="Eladio S. Oronel">
 				<h4 class="nombre-profesional">
 					Eladio S. Oronel
@@ -152,14 +155,14 @@ get_header();
 				</p>
 				<div class="collapse" id='eladio-oronel-trayectoria' aria-expanded='false'>
 					<ul class="card-text trayectoria-profesional ps-0 ms-4">
-						<li>Abogado en “ESTUDIO JURÍDICO PEDROTTI” – 2005 a la fecha.</li>
+						<li>Abogado en “Pedrotti Abogados” – 2005 a la fecha.</li>
 						<li>TESCRIBANÍA FEDERIK.- Escribana Olga Fernández Gonzalo de Federik.-
-							Funciones: Asesor Jurídico, Trámites Registrales, Bancarios y  Tributarios.- Años 2003 -  2004.
+							Funciones: Asesor Jurídico, Trámites Registrales, Bancarios y Tributarios.- Años 2003 - 2004.
 						</li>
 						<li>Profesor Adscripto Docente Institución: Universidad Católica Argentina.- Facultad de Derecho.- Subsede Paraná.- Derecho Civil II (Derecho de las Obligaciones).- Año: 2005 – 2007. Titular: Dr. Luis Niel Puig.
 						</li>
 						<li>Practicante Docente (Resol. 235-04 - CD) - Universidad Nacional del Litoral.- Facultad de Ciencias Jurídicas y Sociales - Derecho Civil II (Derecho de las Obligaciones).- Año: 2004 - 2007/</li>
-						<li>Docente Ayudante Alumno (por concurso abierto de oposición y antecedentes - Resol. 684-01-CD.)   Universidad Nacional del Litoral.- Facultad de Ciencias Jurídicas y Sociales.- Materia Concursada: Derecho Civil II (Derecho de las Obligaciones).- Año: Marzo 2002- Febrero 2003.- Calificación: Primer Puesto.</li>
+						<li>Docente Ayudante Alumno (por concurso abierto de oposición y antecedentes - Resol. 684-01-CD.) Universidad Nacional del Litoral.- Facultad de Ciencias Jurídicas y Sociales.- Materia Concursada: Derecho Civil II (Derecho de las Obligaciones).- Año: Marzo 2002- Febrero 2003.- Calificación: Primer Puesto.</li>
 						<li>Notario. Abogado Especialista en Derecho Notarial y Registral – Egresado Año 2004.</li>
 						<li>Colegio de Abogados de Rafaela (Mat. Fº85 - TºI - Expte.5-337)</li>
 						<li>Abogado: Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral – Egresado 2002.</li>
@@ -167,7 +170,30 @@ get_header();
 					</ul>
 				</div>
 
-				<button class="btn btn-primary mt-2 mb-5 px-0 trayectoria-button" type="button" role="button" class="collapsed" data-bs-toggle="collapse" href="#eladio-oronel-trayectoria" aria-expanded="false" aria-controls="eladio-oronel-trayectoria">Trayectoria profesional></button>
+				<button class="btn btn-primary mt-2 mb-5 px-0 trayectoria-button" type="button" role="button" class="collapsed" data-bs-toggle="collapse" href="#eladio-oronel-trayectoria" aria-expanded="false" aria-controls="eladio-oronel-trayectoria">Trayectoria profesional > </button>
+			</div>
+			<div class="col-12 col-md-3">
+				<img class="img-profesional" src="https://pedrottiabogados.com/wp-content/uploads/2023/08/francisco-pedrotti.jpg" alt="Francisco Pedrotti">
+				<h4 class="nombre-profesional">
+					Francisco Pedrotti
+				</h4>
+				<p class="profesion-profesional">
+					ABOGADO
+				</p>
+				<p class="descripcion-profesional">
+					Abocado al derecho del trabajo, cuestiones afines a consumidores-usuarios, reclamos administrativos ante SRT y judiciales ART, asesoramiento a herederos y planificaciones patrimoniales de la sucesión.
+				</p>
+				<div class="collapse" id='francisco-pedrotti-trayectoria' aria-expanded='false'>
+					<ul class="card-text trayectoria-profesional ps-0 ms-4">
+						<li>Abogado en “Pedrotti Abogados” – 2022 a la fecha.</li>
+						<li>Abogado egresado 2022 Facultad de Derecho y Ciencias Sociales - Universidad Católica Argentina.</li>
+						<li>Matricula F° 223 – Tomo I – Exp. 5-890</li>
+						<li>Diplomatura teórica-práctica en Institutos del D. del Trabajo y de la Seguridad Social – 2022 – UCEL.</li>
+						<li>Idiomas: Nivel avanzado inglés (FCE - First Certificate in English). Dominio oral y escrito italiano.</li>
+					</ul>
+				</div>
+
+				<button class="btn btn-primary mt-2 mb-5 px-0 trayectoria-button" type="button" role="button" class="collapsed" data-bs-toggle="collapse" href="#francisco-pedrotti-trayectoria" aria-expanded="false" aria-controls="francisco-pedrotti-trayectoria">Trayectoria profesional > </button>
 			</div>
 		</div>
 	</div>
@@ -192,7 +218,7 @@ get_header();
 						<h5 class="card-title text-center">DERECHO CIVIL</h5>
 						<div class="collapse" id='derecho-civil' aria-expanded='false'>
 							<p class="card-text text-center py-2">Acreditamos amplia experiencia en la negociación y resolución extrajudicial (conciliaciones, mediaciones) y la tramitación judicial en todo tipo de conflictos y procesos, y en todas sus instancias procesales.<br>
-								Redacción y negociación de contratos; constitución  de asociaciones y sociedades, modificaciones estatutarias y disolución; compraventa de inmuebles urbanos y rurales, arrendamiento y locaciones; locación de obra; cobro de pesos y persecución de deudores fraudulentamente insolventes; resarcimiento de daños patrimoniales y extrapatrimoniales, etc.
+								Redacción y negociación de contratos; constitución de asociaciones y sociedades, modificaciones estatutarias y disolución; compraventa de inmuebles urbanos y rurales, arrendamiento y locaciones; locación de obra; cobro de pesos y persecución de deudores fraudulentamente insolventes; resarcimiento de daños patrimoniales y extrapatrimoniales, etc.
 							</p>
 						</div>
 						<center>
@@ -208,7 +234,7 @@ get_header();
 						<h5 class="card-title text-center">DERECHO DE DAÑOS</h5>
 						<div class="collapse" id='derecho-danios' aria-expanded='false'>
 							<p class="card-text text-center">Reconocida trayectoria en procesos de resarcimientos de daños extrapatrimoniales y patrimoniales.<br>
-								Comprensiva de áreas tan diversas como: responsabilidad profesional; acciones civiles en accidentes de trabajo; accidentes de tránsito; daños sufridos en espectáculos públicos; derivados de la actividad del Estado; derivados de fraudes o tentativas de fraudes; querellas;  responsabilidad de miembros de Asociaciones Civiles y Mutuales, socios y Directores de Sociedades Anónimas; responsabilidad precontractual e  incumplimiento de contratos; daños derivados de divorcios; falta de reconocimiento oportuno de filiación, etc.
+								Comprensiva de áreas tan diversas como: responsabilidad profesional; acciones civiles en accidentes de trabajo; accidentes de tránsito; daños sufridos en espectáculos públicos; derivados de la actividad del Estado; derivados de fraudes o tentativas de fraudes; querellas; responsabilidad de miembros de Asociaciones Civiles y Mutuales, socios y Directores de Sociedades Anónimas; responsabilidad precontractual e incumplimiento de contratos; daños derivados de divorcios; falta de reconocimiento oportuno de filiación, etc.
 							</p>
 						</div>
 						<center>
@@ -223,7 +249,7 @@ get_header();
 					<div class="card-body">
 						<h5 class="card-title text-center">DERECHO COMERCIAL Y DE LA EMPRESA</h5>
 						<div class="collapse" id='derecho-comercial' aria-expanded='false'>
-							<p class="card-text text-center">Redacción, negociación e interpretación de contratos comerciales; sociedades, 
+							<p class="card-text text-center">Redacción, negociación e interpretación de contratos comerciales; sociedades,
 								joint ventures, agrupaciones de colaboración, UTE, Asociaciones y otras formas asociativas, como su disolución; transferencias de empresas y fondos de comercio.<br>
 								Contratos comerciales de servicios y de colaboración: Agencia, Distribución, Licencias, etc. Área del Derecho del Trabajo: encuadramiento, contratos, negociaciones de convenios, actuación ante Autoridades Administrativas, acciones judiciales individuales y colectivas.
 
@@ -257,7 +283,7 @@ get_header();
 					<div class="card-body">
 						<h5 class="card-title text-center">DERECHO DE FAMILIA</h5>
 						<div class="collapse" id='derecho-familia' aria-expanded='false'>
-							<p class="card-text text-center py-2">Atención de controversias en Derecho de familia; Asesoramiento en constitución y cese de uniones convivenciales y pactos de división de bienes; Tramitación de divorcios unilaterales y contenciosos; Asesoramiento y representación en trámites de liquidación y partición de la comunidad de ganancias; Determinación y reclamos por compensación económica;  Daños en las relaciones de familia.
+							<p class="card-text text-center py-2">Atención de controversias en Derecho de familia; Asesoramiento en constitución y cese de uniones convivenciales y pactos de división de bienes; Tramitación de divorcios unilaterales y contenciosos; Asesoramiento y representación en trámites de liquidación y partición de la comunidad de ganancias; Determinación y reclamos por compensación económica; Daños en las relaciones de familia.
 							</p>
 						</div>
 						<center>
@@ -273,7 +299,7 @@ get_header();
 						<h5 class="card-title text-center">DERECHO REALES FIDEICOMISOS</h5>
 						<div class="collapse" id='derecho-real' aria-expanded='false'>
 							<p class="card-text text-center">Asesoramiento a clientes (inversores, desarrolladores, empresas constructoras y profesionales participantes) en proyectos inmobiliarios en la ciudad y la Provincia.<br>
-								Desarrollo de la estructura  legal, conforme leyes y reglamentos nacionales, provinciales y municipales y para la estructuración del financiamiento que facilite la realización.
+								Desarrollo de la estructura legal, conforme leyes y reglamentos nacionales, provinciales y municipales y para la estructuración del financiamiento que facilite la realización.
 							</p>
 						</div>
 						<center>
