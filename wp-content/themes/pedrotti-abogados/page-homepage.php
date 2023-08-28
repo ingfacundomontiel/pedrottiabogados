@@ -181,7 +181,7 @@ get_header();
 					ABOGADO
 				</p>
 				<p class="descripcion-profesional">
-					Abocado al derecho del trabajo, cuestiones afines a consumidores-usuarios, reclamos administrativos ante SRT y judiciales ART, asesoramiento a herederos y planificaciones patrimoniales de la sucesión.
+					Abocado al derecho del trabajo, responsabilidad profesional, daños derivados de accidentes de tránsito, cuestiones afines a consumidores-usuarios, reclamos administrativos ante SRT y judiciales ART, asesoramiento a herederos y planificaciones patrimoniales de la sucesión.
 				</p>
 				<div class="collapse" id='francisco-pedrotti-trayectoria' aria-expanded='false'>
 					<ul class="card-text trayectoria-profesional ps-0 ms-4">
