@@ -1,0 +1,484 @@
+@font-face {
+	font-family: "Lao MN";
+	src: url("../assets/fonts/Lao MN.ttc");
+}
+
+@font-face {
+	font-family: "Nimbus Sans Extd Light";
+	src: url("../assets/fonts/Nimbus Sans Extd Light.ttf");
+}
+
+@font-face {
+	font-family: "Times Sans Serif";
+	src: url("../assets/fonts/Times-Sans-Serif.ttf");
+}
+
+@font-face {
+	font-family: "Belleza";
+	src: url("../assets/fonts/Belleza-Regular.ttf");
+}
+
+.page {
+	margin-bottom: 0;
+}
+
+body {
+	font-family: 'Belleza' !important;
+	color: #4D4D4D;
+}
+
+header {
+	font-family: 'Nimbus Sans Extd Light' !important;
+}
+
+/** Clases Generales y Compartidas **/
+
+.seccion-contenido {
+	padding: 90px 0;
+}
+
+@media screen and (max-width: 600px) {
+	.seccion-contenido {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+}
+
+.seccion-contenido .titulos {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding-bottom: 10px;
+}
+
+.titulo {
+	text-align: center;
+}
+
+.subtitulo {
+	color: #757575;
+	text-align: center
+}
+
+.descripcion, .descripcion-profesional, .servicio .card-text, .info-contacto p, .info-contacto a {
+	font-family: 'Nimbus Sans Extd Light' !important;
+}
+
+.white-no-style {
+	color: #fff;
+	text-decoration: none;
+}
+
+/** Navigation **/
+
+.navbar {
+	padding: 25px 0;
+}
+
+nav .logo-navegacion {
+	color: #4d4d4d;
+	text-decoration: none;
+	letter-spacing: 2px;
+	font-family: 'LAO MN' !important;
+}
+
+.nav-anchor {
+	display: block;
+	margin-top: -95px;
+	padding-bottom: 95px;
+}
+
+/** Intro Section (Banner) **/
+
+.intro-hero {
+	background: #757575;
+	color: #fff;
+	margin-top: 95px;
+}
+
+.intro-hero .col-12 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+@media screen and (min-width: 768px) {
+	.intro-hero .hero-left, .intro-hero .col-inferior-1, .intro-hero .col-inferior-2  {
+		border-right: 1px solid #fff;
+	}
+}
+
+.intro-hero .titulos-principales-col {
+	padding-top: 130px;
+	padding-bottom: 130px;
+}
+
+.intro-hero .titulos-principales-col img {
+	max-width: 290px;
+}
+
+@media screen and (max-width: 768px) {
+	.intro-hero .titulos-principales-col {
+		height: 65vh;
+		padding-left: 80px;
+		padding-right: 80px;
+	}
+	
+	.intro-hero .titulos-principales-col img {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+	
+	.intro-hero .nombres-col {
+		padding-top: 40px;
+		border-top: 1px solid #fff;
+		padding-bottom: 25px;
+	}
+}
+
+.intro-hero .titulos-principales-col .titulo-principal-1 {
+	font-size: 60px;
+    margin-bottom: 0;
+    line-height: 1;
+    letter-spacing: 1.5px;
+}
+
+.intro-hero .titulos-principales-col .titulo-principal-2 {
+	font-size: 52px;
+    line-height: 1;
+    letter-spacing: 1.5px;
+}
+
+.intro-hero .subtitulo {
+	font-size: 25px;
+	color: #fff;
+}
+
+.intro-hero .nombres {
+	height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.intro-hero .nombres h4 {
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+
+.intro-hero .col-inferior {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-family: 'Nimbus Sans Extd Light' !important;
+}
+
+.nombres-col .info {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-family: 'Nimbus Sans Extd Light' !important;
+	border-top: 1px #fff solid;
+	width: 100%;
+	text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+	
+	.intro-hero .nombres h4 {
+		font-size: 18px;
+		line-height: 1.3;
+	}
+	
+	.intro-hero .col-inferior {
+		padding-bottom: 0px;
+		padding-top: 12px;
+	}
+	
+	.intro-hero .col-inferior-1 {
+		padding-top: 32px;
+	}
+	
+	.intro-hero .col-inferior-3 {
+		padding-bottom: 32px;
+	}
+}
+
+/** Frase Destacada Section **/
+
+#frase-destacada {
+	padding-top: 200px;
+	padding-bottom: 200px;
+	background: #fafaf8;
+}
+
+@media screen and (max-height: 800px) {
+	#frase-destacada {
+		padding-top: 0;
+		padding-bottom: 0;
+		height: 100vh;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
+
+#frase-destacada h4 {
+	color: #8fa3b9;
+	font-size: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+	#frase-destacada {
+		height: 100vh;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+}
+
+/** Nosotros Section **/
+
+#nosotros-seccion {
+	background: #fff;
+}
+
+#nosotros-seccion .col-12 {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#nosotros-seccion .col-12 .titulo {
+	margin-bottom: 15px;
+}
+
+#nosotros-seccion .col-12 .subtitulo {
+	margin-bottom: 25px;
+}
+
+#nosotros-seccion .col-12 p {
+	text-align: center;
+}
+
+#nosotros-seccion .descripcion {
+	max-width: 690px;
+}
+
+
+/** Profesionales Section **/
+
+#profesionales-seccion {
+	background: #fafaf8;
+}
+
+/* #profesionales .titulos {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding-bottom: 30px;
+} */
+
+#profesionales-seccion .nombre-profesional {
+	margin-top: 25px;
+	margin-bottom: 0;
+	font-weight: bold;
+}
+
+#profesionales-seccion .descripcion-profesional {
+	margin-top: 10px;
+	font-weight: bold;
+/* 	min-height: 264px; */
+}
+
+#profesionales-seccion .trayectoria-profesional li {
+	text-align: left;
+}
+
+#profesionales-seccion .trayectoria-button {
+	background: none!important;
+	border: 0;
+	font-family: arial, sans-serif;
+	color: #4D4D4D;
+	text-decoration: underline;
+	cursor: pointer;
+	border-radius: 0;
+	box-shadow: none;
+	font-family: "Nimbus Sans Extd Light";
+}
+
+#profesionales-seccion .trayectoria-button:hover {
+	text-decoration: none;
+}
+
+/** Servicios Section **/
+
+#servicios-seccion .servicio img {
+	max-width: 90px;
+	align-self: center;
+}
+
+#servicios-seccion .fila-3-servicios {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+#servicios-seccion .servicio .card-title {
+	min-height: 3.5rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#servicios-seccion .servicio .collapse:not(.show) {
+	display: block;
+	max-height: 100px;
+	height: 100px;
+	overflow: hidden;
+} 
+
+#servicios-seccion .servicio .collapsing {
+	height: 100px;
+}
+
+#servicios-seccion button {
+	background: none!important;
+	border: 0;
+	font-family: arial, sans-serif;
+	color: #4D4D4D;
+	text-decoration: underline;
+	cursor: pointer;
+	border-radius: 0;
+	box-shadow: none;
+	font-family: "Nimbus Sans Extd Light";
+}
+
+#servicios-seccion button:hover {
+	text-decoration: none;
+}
+
+/** Nuestros Valores Section **/
+
+.nuestros-valores-banner {
+	background-image: url('https://pedrottiabogados.com/wp-content/uploads/2021/11/nuestros-valores.png');
+	background-size: cover;
+	height: 470px;
+	background-position: center;
+}
+
+.nuestros-valores-banner-mobile {
+	background-image: url('http://pedrottiabogados.com/wp-content/uploads/2021/12/banner-mobile.png');
+	background-size: cover;
+	height: 640px;
+	background-position: center;
+}
+
+#nuestros-valores-seccion .texto-destacado {
+	color: #8899ad;
+}
+
+#nuestros-valores-seccion .texto-destacado .separador {
+	margin: 0 15px;
+}
+
+#nuestros-valores-seccion .descripcion {
+    max-width: 712px;
+}
+
+
+/** Contacto Section **/
+
+#contacto-seccion {
+	background: #fafaf8;
+}
+
+#contacto-seccion .info-contacto {
+    display: flex;
+    justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	color: #808080;
+}
+
+#contacto-seccion .info-contacto strong {
+	color: #000;
+}
+
+@media screen and (min-width: 768px) {
+	#contacto .info-contacto {
+		padding-right: 20%;
+	}
+}
+
+#contacto-seccion .info-contacto a {
+	text-decoration: none;
+	color: #808080;
+}
+
+#formulario-contacto-home label {
+	width: 100%;
+}
+
+#formulario-contacto-home input, #formulario-contacto-home textarea {
+	padding: 9px 2px 9px 12px;
+	border: 1px solid #000;
+}
+
+#formulario-contacto-home .your-name .wpcf7-text {
+	width: 95%
+}
+
+@media screen and (max-width: 767px) {
+	#formulario-contacto-home .your-name .wpcf7-text {
+		width: 100%
+	}
+}
+
+#formulario-contacto-home .wpcf7-email {
+	width: 100%;
+}
+
+#formulario-contacto-home .your-subject .wpcf7-text {
+	width: 100%;
+}
+
+#formulario-contacto-home input.wpcf7-submit {
+	background: none!important;
+	border: none;
+	padding: 0!important;
+	font-family: 'Nimbus Sans Extd Light' !important;
+	color: #000;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#formulario-contacto-home input.wpcf7-submit:hover {
+	text-decoration: none;
+}
+
+#formulario-contacto-home .center-form-button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+/** Footer **/
+
+footer {
+	padding: 40px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+footer .footer-brand {
+	margin-bottom: 0;
+	font-size: 16px;
+	letter-spacing: 2px;
+}
