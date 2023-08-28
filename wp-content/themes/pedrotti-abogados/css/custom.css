@@ -482,3 +482,9 @@ footer .footer-brand {
 	font-size: 16px;
 	letter-spacing: 2px;
 }
+
+/** Captcha Badge **/
+
+.grecaptcha-badge {
+	opacity: 0;
+}
