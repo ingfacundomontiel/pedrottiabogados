@@ -8,7 +8,7 @@ get_header();
 	<div class='container-fluid'>
 		<div class="row border-white border-bottom">
 			<div class="col-12 col-md-8 hero-left titulos-principales-col">
-				<img src="http://pedrottiabogados.com/wp-content/uploads/2022/02/banner-header-apellidos.png" alt='Pedrotti Abogados'>
+				<img src="<?php echo get_template_directory_uri() ?>/assets/img/banner-header-apellidos.png" alt='Pedrotti Abogados'>
 			</div>
 			<div class="col-12 col-md-4 nombres-col px-0 p-md-0 py-5 justify-content-end">
 				<div class="text-left nombres">
@@ -84,7 +84,7 @@ get_header();
 		</div>
 		<div class="row">
 			<div class="col-12 col-md-3">
-				<img class="img-profesional" src="https://pedrottiabogados.com/wp-content/uploads/2021/11/daniel-f-pedrotti.png" alt="Daniel F. Pedrotti">
+				<img class="img-profesional" src="<?php echo get_template_directory_uri() ?>/assets/img/daniel-f-pedrotti.png" alt="Daniel F. Pedrotti">
 				<h4 class="nombre-profesional">
 					Daniel F. Pedrotti
 				</h4>
@@ -112,7 +112,7 @@ get_header();
 
 			</div>
 			<div class="col-12 col-md-3">
-				<img class="img-profesional" src="https://pedrottiabogados.com/wp-content/uploads/2021/11/carla-bassani.png" alt="Carla Bassani">
+				<img class="img-profesional" src="<?php echo get_template_directory_uri() ?>/assets/img/carla-bassani.png" alt="Carla Bassani">
 				<h4 class="nombre-profesional">
 					Carla Bassani
 				</h4>
@@ -143,7 +143,7 @@ get_header();
 			</div>
 
 			<div class="col-12 col-md-3">
-				<img class="img-profesional" src="https://pedrottiabogados.com/wp-content/uploads/2021/11/eladio-s-oronel.png" alt="Eladio S. Oronel">
+				<img class="img-profesional" src="<?php echo get_template_directory_uri() ?>/assets/img/eladio-s-oronel.png" alt="Eladio S. Oronel">
 				<h4 class="nombre-profesional">
 					Eladio S. Oronel
 				</h4>
@@ -173,7 +173,7 @@ get_header();
 				<button class="btn btn-primary mt-2 mb-5 px-0 trayectoria-button" type="button" role="button" class="collapsed" data-bs-toggle="collapse" href="#eladio-oronel-trayectoria" aria-expanded="false" aria-controls="eladio-oronel-trayectoria">Trayectoria profesional > </button>
 			</div>
 			<div class="col-12 col-md-3">
-				<img class="img-profesional" src="https://pedrottiabogados.com/wp-content/uploads/2023/08/francisco-pedrotti.jpg" alt="Francisco Pedrotti">
+				<img class="img-profesional" src="<?php echo get_template_directory_uri() ?>/assets/img/francisco-pedrotti.jpg" alt="Francisco Pedrotti">
 				<h4 class="nombre-profesional">
 					Francisco Pedrotti
 				</h4>
@@ -213,7 +213,7 @@ get_header();
 		<div class="row fila-3-servicios py-3">
 			<div class="col-12 col-md-3 py-1 p-md-0">
 				<div class="card servicio border-0">
-					<img src="https://pedrottiabogados.com/wp-content/uploads/2021/11/derecho-civil.png" class="card-img-top" alt="Derecho Civil">
+					<img src="<?php echo get_template_directory_uri() ?>/assets/img/derecho-civil.png" class="card-img-top" alt="Derecho Civil">
 					<div class="card-body">
 						<h5 class="card-title text-center">DERECHO CIVIL</h5>
 						<div class="collapse" id='derecho-civil' aria-expanded='false'>
@@ -229,7 +229,7 @@ get_header();
 			</div>
 			<div class="col-12 col-md-3 py-1 p-md-0">
 				<div class="card servicio border-0">
-					<img src="https://pedrottiabogados.com/wp-content/uploads/2021/11/derecho-danios.png" class="card-img-top" alt="Derecho Civil">
+					<img src="<?php echo get_template_directory_uri() ?>/assets/img/derecho-danios.png" class="card-img-top" alt="Derecho Daños">
 					<div class="card-body">
 						<h5 class="card-title text-center">DERECHO DE DAÑOS</h5>
 						<div class="collapse" id='derecho-danios' aria-expanded='false'>
@@ -245,7 +245,7 @@ get_header();
 			</div>
 			<div class="col-12 col-md-3 py-1 p-md-0">
 				<div class="card servicio border-0">
-					<img src="https://pedrottiabogados.com/wp-content/uploads/2021/11/derecho-comercial.png" class="card-img-top" alt="Derecho Civil">
+					<img src="<?php echo get_template_directory_uri() ?>/assets/img/derecho-comercial.png" class="card-img-top" alt="Derecho Comercial">
 					<div class="card-body">
 						<h5 class="card-title text-center">DERECHO COMERCIAL Y DE LA EMPRESA</h5>
 						<div class="collapse" id='derecho-comercial' aria-expanded='false'>
@@ -265,7 +265,7 @@ get_header();
 		<div class="row py-3">
 			<div class="col-12 col-md-3 py-1">
 				<div class="card servicio border-0">
-					<img src="https://pedrottiabogados.com/wp-content/uploads/2021/11/derecho-laboral.png" class="card-img-top" alt="Derecho Civil">
+					<img src="<?php echo get_template_directory_uri() ?>/assets/img/derecho-laboral.png" class="card-img-top" alt="Derecho Laboral">
 					<div class="card-body">
 						<h5 class="card-title text-center">DERECHO LABORAL</h5>
 						<div class="collapse" id='derecho-laboral' aria-expanded='false'>
@@ -279,7 +279,7 @@ get_header();
 			</div>
 			<div class="col-12 col-md-3 py-1">
 				<div class="card servicio border-0">
-					<img src="https://pedrottiabogados.com/wp-content/uploads/2021/11/derecho-familia.png" class="card-img-top" alt="Derecho Civil">
+					<img src="<?php echo get_template_directory_uri() ?>/assets/img/derecho-familia.png" class="card-img-top" alt="Derecho Familia">
 					<div class="card-body">
 						<h5 class="card-title text-center">DERECHO DE FAMILIA</h5>
 						<div class="collapse" id='derecho-familia' aria-expanded='false'>
@@ -294,7 +294,7 @@ get_header();
 			</div>
 			<div class="col-12 col-md-3 py-1">
 				<div class="card servicio border-0">
-					<img src="https://pedrottiabogados.com/wp-content/uploads/2021/11/derechos-reales-fideicomiso.png" class="card-img-top" alt="Derecho Civil">
+					<img src="<?php echo get_template_directory_uri() ?>/assets/img/derechos-reales-fideicomiso.png" class="card-img-top" alt="Derecho Fideicomiso">
 					<div class="card-body">
 						<h5 class="card-title text-center">DERECHO REALES FIDEICOMISOS</h5>
 						<div class="collapse" id='derecho-real' aria-expanded='false'>
@@ -310,7 +310,7 @@ get_header();
 			</div>
 			<div class="col-12 col-md-3 py-1 py-md-0">
 				<div class="card servicio border-0">
-					<img src="https://pedrottiabogados.com/wp-content/uploads/2021/11/fraudes.png" class="card-img-top" alt="Derecho Civil">
+					<img src="<?php echo get_template_directory_uri() ?>/assets/img/fraudes.png" class="card-img-top" alt="Derecho Fraude">
 					<div class="card-body">
 						<h5 class="card-title text-center">FRAUDES</h5>
 						<div class="collapse" id='derecho-fraude' aria-expanded='false'>
@@ -328,7 +328,7 @@ get_header();
 
 <div class="container-fluid d-none d-md-block nuestros-valores-banner"></div>
 <div class="container-fluid d-md-none px-0">
-	<img class="w-100" src="http://pedrottiabogados.com/wp-content/uploads/2021/12/banner-mobile.png" alt="Nuestros Valores">
+	<img class="w-100" src="<?php echo get_template_directory_uri() ?>/assets/img/banner-mobile.png" alt="Nuestros Valores">
 </div>
 
 <span class='nav-anchor' id='nuestros-valores'></span>
@@ -374,7 +374,7 @@ get_header();
 				</p>
 			</div>
 			<div class="col-12 col-md-6 px-4 px-md-0">
-				<?php echo do_shortcode('[contact-form-7 id="31" title=""]'); ?>
+				<?php echo do_shortcode('[contact-form-7 id="b627516" title=""]'); ?>
 			</div>
 		</div>
 	</div>

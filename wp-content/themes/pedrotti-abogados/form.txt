@@ -1,0 +1,22 @@
+<div id='formulario-contacto-home'>
+
+<div class='your-name'>
+[text* your-name akismet:author autocomplete:name placeholder "Nombre y Apellido"]
+</div>
+
+<div class=''>
+[email* your-email akismet:author_email autocomplete:email placeholder "Mail"]
+</div>
+
+<div class='your-subject'>
+[text* your-subject placeholder "Asunto"]
+</div>
+
+<div class=''>
+[textarea your-message placeholder "Mensaje"]
+</div>
+
+<div class='center-form-button'>
+[submit "Enviar"]
+</div>
+</div>
