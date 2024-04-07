@@ -1,5 +1,7 @@
+*
+!wp-content/
+.DS_Store
 wp-content/themes/pedrotti-abogados.zip
 wp-content/themes/pedrotti-abogados/assets/.DS_Store
 wp-content/themes/pedrotti-abogados/.DS_Store
 wp-content/themes/.DS_Store
-.DS_Store
