@@ -1,4 +1,5 @@
 <?php
+
 /**
  * The template for displaying the footer
  *
@@ -11,16 +12,35 @@
 
 ?>
 
-	<footer id="colophon" class="site-footer">
-		<div class="site-info">
-			<p class="footer-brand">
-				PEDROTTI ABOGADOS
-			</p>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
+<footer id="colophon" class="site-footer">
+	<div class="site-info">
+		<!-- Instagram, Facebook, Mail, WhatsApp y Teléfono	-->
+		<div class="footer-social">
+			<a href="#" target="_blank">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/instagram.svg" alt="Instagram">
+			</a>
+			<a href="#" target="_blank">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/facebook.svg" alt="Facebook">
+			</a>
+			<a href="#" target="_blank">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/whatsapp.svg" alt="WhatsApp">
+			</a>
+			<a href="#" target="_blank">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/mail.svg" alt="Mail">
+			</a>
+			<a href="#" target="_blank">
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/phone.svg" alt="Teléfono">
+			</a>
+		</div>
+		<p class=" footer-brand">
+			PEDROTTI ABOGADOS
+		</p>
+	</div><!-- .site-info -->
+</footer><!-- #colophon -->
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
 
 </body>
+
 </html>
