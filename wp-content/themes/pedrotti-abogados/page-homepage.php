@@ -369,10 +369,10 @@ get_header();
 					<a class="social-icon" href="#" target="_blank">
 						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/facebook.svg" alt="Facebook">
 					</a>
-					<a class="social-icon" href="#" target="_blank">
+					<a class="social-icon" href="https://wa.me/543492589090" target="_blank">
 						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/whatsapp.svg" alt="WhatsApp">
 					</a>
-					<a class="social-icon" href="#" target="_blank">
+					<a class="social-icon" href="tel:3492424248" target="_blank">
 						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/phone.svg" alt="Teléfono">
 					</a>
 				</div>

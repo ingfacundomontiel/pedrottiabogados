@@ -14,7 +14,6 @@
 
 <footer id="colophon" class="site-footer">
 	<div class="site-info">
-		<!-- Instagram, Facebook, Mail, WhatsApp y Teléfono	-->
 		<div class="footer-social">
 			<a class="social-icon" href="#" target="_blank">
 				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/instagram.svg" alt="Instagram">
@@ -22,13 +21,13 @@
 			<a class="social-icon" href="#" target="_blank">
 				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/facebook.svg" alt="Facebook">
 			</a>
-			<a class="social-icon" href="#" target="_blank">
+			<a class="social-icon" href="https://wa.me/543492589090" target="_blank">
 				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/whatsapp.svg" alt="WhatsApp">
 			</a>
-			<a class="social-icon" href="#" target="_blank">
+			<a class="social-icon" href="mailto:secretaria@pedrottiabogados.com" target="_blank">
 				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/email.svg" alt="Mail">
 			</a>
-			<a class="social-icon" href="#" target="_blank">
+			<a class="social-icon" href="tel:3492424248" target="_blank">
 				<img src="<?php echo get_template_directory_uri(); ?>/assets/img/phone.svg" alt="Teléfono">
 			</a>
 		</div>
