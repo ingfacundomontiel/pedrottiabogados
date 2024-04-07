@@ -362,12 +362,20 @@ get_header();
 		</div>
 		<div class="row">
 			<div class="col-12 col-md-6 info-contacto">
-				<p>
-					Whatsapp: <strong>+54 (3492) 589090</strong>
-				</p>
-				<p>
-					Teléfono: <strong>(03492) 424248</strong>
-				</p>
+				<div class="social-icons">
+					<a class="social-icon" href="#" target="_blank">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/instagram.svg" alt="Instagram">
+					</a>
+					<a class="social-icon" href="#" target="_blank">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/facebook.svg" alt="Facebook">
+					</a>
+					<a class="social-icon" href="#" target="_blank">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/whatsapp.svg" alt="WhatsApp">
+					</a>
+					<a class="social-icon" href="#" target="_blank">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/phone.svg" alt="Teléfono">
+					</a>
+				</div>
 				<a href="mailto:secretaria@pedrottiabogados.com">secretaria@pedrottiabogados.com</a>
 				<p class="mt-3">
 					Sargento Cabral 143, Rafaela, Santa Fe
