@@ -363,11 +363,8 @@ get_header();
 		<div class="row">
 			<div class="col-12 col-md-6 info-contacto">
 				<div class="social-icons">
-					<a class="social-icon" href="#" target="_blank">
+					<a class="social-icon" href="https://www.instagram.com/pedrottiabogados/" target="_blank">
 						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/instagram.svg" alt="Instagram">
-					</a>
-					<a class="social-icon" href="#" target="_blank">
-						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/facebook.svg" alt="Facebook">
 					</a>
 					<a class="social-icon" href="https://wa.me/543492589090" target="_blank">
 						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/whatsapp.svg" alt="WhatsApp">
