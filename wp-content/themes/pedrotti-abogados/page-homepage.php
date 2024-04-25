@@ -25,24 +25,31 @@ get_header();
 						Francisco Pedrotti
 					</h4>
 				</div>
+
+			</div>
+		</div>
+		<div class="row cta-info-row">
+			<div class="col-12 col-md-8 border-white col-inferior col-inferior-1">
+				<div class="social-icons">
+					<p class="cta">CONSULTANOS YA: </p>
+					<a class="social-icon" href="https://wa.me/543492589090" target="_blank">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/whatsapp-white.svg" alt="WhatsApp">
+					</a>
+					<a class="social-icon" href="mailto:secretaria@pedrottiabogados.com" target="_blank">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/email-white.svg" alt="Mail">
+					</a>
+					<a class="social-icon" href="tel:3492424248" target="_blank">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/phone-white.svg" alt="Teléfono">
+					</a>
+
+				</div>
+			</div>
+			<div class="col-12 col-md-4 col-inferior col-inferior-3">
 				<div class="info">
 					Asesores legales desde 1989
 				</div>
 			</div>
 		</div>
-		<!-- 		<div class="row">
-			<div class="col-12 col-md-5 border-white col-inferior col-inferior-1">
-				Sargento Cabral 143, Rafaela
-			</div>
-			<div class="col-12 col-md-3 border-white col-inferior col-inferior-2 white-no-style">
-				<p class="my-0">
-					3492 424248
-				</p>			
-			</div>
-			<div class="col-12 col-md-4 col-inferior col-inferior-3">
-				
-			</div>
-		</div> -->
 	</div>
 </section>
 
@@ -368,6 +375,9 @@ get_header();
 					</a>
 					<a class="social-icon" href="https://wa.me/543492589090" target="_blank">
 						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/whatsapp.svg" alt="WhatsApp">
+					</a>
+					<a class="social-icon" href="mailto:secretaria@pedrottiabogados.com" target="_blank">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/email.svg" alt="Mail">
 					</a>
 					<a class="social-icon" href="tel:3492424248" target="_blank">
 						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/phone.svg" alt="Teléfono">

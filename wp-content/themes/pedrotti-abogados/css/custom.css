@@ -182,6 +182,32 @@ nav .logo-navegacion {
 	font-family: 'Nimbus Sans Extd Light' !important;
 }
 
+.intro-hero .col-inferior .social-icons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+}
+
+.intro-hero .col-inferior .social-icons .cta {
+	margin: 0;
+	font-size: 18px;
+	line-height: 18px;
+	margin-top: 4px;
+}
+
+.intro-hero .col-inferior .social-icons .social-icon {
+	display: block;
+	text-decoration: none;
+	width: 30px;
+	height: 30px;
+}
+
+.intro-hero .col-inferior .social-icons .social-icon img {
+	width: 30px;
+	height: 30px;
+}
+
 .nombres-col .info {
 	padding-top: 25px;
 	padding-bottom: 25px;
@@ -205,10 +231,24 @@ nav .logo-navegacion {
 
 	.intro-hero .col-inferior-1 {
 		padding-top: 32px;
+		padding-bottom: 32px;
 	}
 
 	.intro-hero .col-inferior-3 {
+		padding-top: 32px;
 		padding-bottom: 32px;
+		border-bottom: 1px solid #fff;
+	}
+
+	.intro-hero .cta-info-row {
+		display: flex;
+		flex-direction: column-reverse;
+	}
+}
+
+@media screen and (max-width: 350px) {
+	.intro-hero .col-inferior-1 .social-icons {
+		flex-direction: column;
 	}
 }
 
