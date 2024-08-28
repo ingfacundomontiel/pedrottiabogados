@@ -104,14 +104,14 @@ get_header();
 				<div class="collapse" id='daniel-pedrotti-trayectoria' aria-expanded='false'>
 					<ul class="card-text trayectoria-profesional ps-0 ms-4">
 						<li>Abogado en “Pedrotti Abogados” (1998 a la fecha)</li>
-						<li class="text-decoration-underline"><strong>"Estudio Jurídico Lorenzetti – Pedrotti" (1989 – 1998)</strong></li>
+						<li class="text-decoration-underline"><strong>"Estudio Jurídico Lorenzetti - Pedrotti" (1989 - 1998)</strong></li>
 						<li>"Estudio Jurídico Asociado" de los Dres. Celso Trivelli y Ricardo L. Lorenzetti (1986-1989); </li>
 						<li>Asesor Legal Secretaría de Estado de Trabajo y Seguridad Social (1987 - 1996); </li>
-						<li>Profesor Adjunto Derecho Civil II (Derechos de las Obligaciones), Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral (1997 – 2005)</li>
-						<li>Profesor Ayudante de Cátedra Derecho Civil II (Derechos de las Obligaciones), Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral (1992 – 1997)</li>
-						<li>Abogado: Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral – Egresado 1984;</li>
-						<li>Programa de Dirección de Pequeñas y Medianas Empresas – DPME 2008 - IAE Business School </li>
-						<li>Mat. Fº 283 – Tomo III – Exp. 4085 . CSJN Tomo 92 – Folio 217.</li>
+						<li>Profesor Adjunto Derecho Civil II (Derechos de las Obligaciones), Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral (1997 - 2005)</li>
+						<li>Profesor Ayudante de Cátedra Derecho Civil II (Derechos de las Obligaciones), Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral (1992 - 1997)</li>
+						<li>Abogado: Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral - Egresado 1984;</li>
+						<li>Programa de Dirección de Pequeñas y Medianas Empresas - DPME 2008 - IAE Business School </li>
+						<li>Mat. Fº 283 - Tomo III - Exp. 4085 . CSJN Tomo 92 - Folio 217.</li>
 					</ul>
 				</div>
 
@@ -132,13 +132,13 @@ get_header();
 				<div class="collapse" id='carla-bassani-trayectoria' aria-expanded='false'>
 					<ul class="card-text trayectoria-profesional ps-0 ms-4">
 						<li>Abogado en “Pedrotti Abogados” - 1999 a la fecha.</li>
-						<li>Trade Development Institute – TDI - www.tdigroup.ie; Programa de reconversión industrial para la Argentina, Rosario, Santa Fe. Área: Gerenciamiento del plan PYMEXPORTA de asistencia a Pymes en su proceso exportador.
+						<li>Trade Development Institute - TDI - www.tdigroup.ie; Programa de reconversión industrial para la Argentina, Rosario, Santa Fe. Área: Gerenciamiento del plan PYMEXPORTA de asistencia a Pymes en su proceso exportador.
 							Tarea desempeñada: Asistente de Ejecutivo de Cuentas
 							Años 1997 - 1998
 						</li>
 						<li>“Estudio Jurídico Dogliani”, Rosario, Santa Fe, año 1998. Especialización: derecho empresario</li>
 						<li>Pasantía en asesoramiento legal de sociedades (régimen de constitución, transformación, fusión y extinción).</li>
-						<li>“Estudio Contable Cristini”, Rosario, Santa Fe. Área: Dpto. de Sociedades – año 1997;</li>
+						<li>“Estudio Contable Cristini”, Rosario, Santa Fe. Área: Dpto. de Sociedades - año 1997;</li>
 						<li>Master en Asesoramiento Jurídico de Empresas; Facultad de Ciencias Empresariales, Universidad Austral Rosario - Egresada año 2001; Tesis evaluada con “Sobresaliente”;</li>
 						<li>Egresada año 1997 Matrícula profesional: Libro XXVI F° 306</li>
 						<li>Abogada - Facultad de Derecho, Universidad Nacional de Rosario </li>
@@ -162,17 +162,17 @@ get_header();
 				</p>
 				<div class="collapse" id='eladio-oronel-trayectoria' aria-expanded='false'>
 					<ul class="card-text trayectoria-profesional ps-0 ms-4">
-						<li>Abogado en “Pedrotti Abogados” – 2005 a la fecha.</li>
+						<li>Abogado en “Pedrotti Abogados” - 2005 a la fecha.</li>
 						<li>TESCRIBANÍA FEDERIK.- Escribana Olga Fernández Gonzalo de Federik.-
 							Funciones: Asesor Jurídico, Trámites Registrales, Bancarios y Tributarios.- Años 2003 - 2004.
 						</li>
-						<li>Profesor Adscripto Docente Institución: Universidad Católica Argentina.- Facultad de Derecho.- Subsede Paraná.- Derecho Civil II (Derecho de las Obligaciones).- Año: 2005 – 2007. Titular: Dr. Luis Niel Puig.
+						<li>Profesor Adscripto Docente Institución: Universidad Católica Argentina.- Facultad de Derecho.- Subsede Paraná.- Derecho Civil II (Derecho de las Obligaciones).- Año: 2005 - 2007. Titular: Dr. Luis Niel Puig.
 						</li>
 						<li>Practicante Docente (Resol. 235-04 - CD) - Universidad Nacional del Litoral.- Facultad de Ciencias Jurídicas y Sociales - Derecho Civil II (Derecho de las Obligaciones).- Año: 2004 - 2007/</li>
 						<li>Docente Ayudante Alumno (por concurso abierto de oposición y antecedentes - Resol. 684-01-CD.) Universidad Nacional del Litoral.- Facultad de Ciencias Jurídicas y Sociales.- Materia Concursada: Derecho Civil II (Derecho de las Obligaciones).- Año: Marzo 2002- Febrero 2003.- Calificación: Primer Puesto.</li>
-						<li>Notario. Abogado Especialista en Derecho Notarial y Registral – Egresado Año 2004.</li>
+						<li>Notario. Abogado Especialista en Derecho Notarial y Registral - Egresado Año 2004.</li>
 						<li>Colegio de Abogados de Rafaela (Mat. Fº85 - TºI - Expte.5-337)</li>
-						<li>Abogado: Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral – Egresado 2002.</li>
+						<li>Abogado: Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional del Litoral - Egresado 2002.</li>
 						<li>Idiomas: dominio oral y escrito del inglés.</li>
 					</ul>
 				</div>
@@ -192,10 +192,10 @@ get_header();
 				</p>
 				<div class="collapse" id='francisco-pedrotti-trayectoria' aria-expanded='false'>
 					<ul class="card-text trayectoria-profesional ps-0 ms-4">
-						<li>Abogado en “Pedrotti Abogados” – 2022 a la fecha.</li>
+						<li>Abogado en “Pedrotti Abogados” - 2022 a la fecha.</li>
 						<li>Abogado egresado 2022 Facultad de Derecho y Ciencias Sociales - Universidad Católica Argentina.</li>
-						<li>Matricula F° 223 – Tomo I – Exp. 5-890</li>
-						<li>Diplomatura teórica-práctica en Institutos del D. del Trabajo y de la Seguridad Social – 2022 – UCEL.</li>
+						<li>Matricula F° 223 - Tomo I - Exp. 5-890</li>
+						<li>Diplomatura teórica-práctica en Institutos del D. del Trabajo y de la Seguridad Social - 2022 - UCEL.</li>
 						<li>Idiomas: Nivel avanzado inglés (FCE - First Certificate in English). Dominio oral y escrito italiano.</li>
 					</ul>
 				</div>
@@ -389,7 +389,7 @@ get_header();
 				</p>
 			</div>
 			<div class="col-12 col-md-6 px-4 px-md-0">
-				<?php echo do_shortcode('[contact-form-7 id="b627516" title=""]'); ?>
+				<?php echo do_shortcode('[contact-form-7 id="92eae8d" title=""]'); ?>
 			</div>
 		</div>
 	</div>
